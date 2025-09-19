@@ -1,0 +1,20 @@
+REM ┌───────────────────────────────────────────────┐
+REM │                                               │
+REM │          DAVIDOKING PAYLOADS v1.0            │
+REM │                                               │
+REM │  GitHub: https://github.com/Davidoking/Davido_Payloads  │
+REM │  Letztes Update: 19.09.25                     │
+REM │                                               │
+REM │  ⚠️ NUR FUER LEGALE ZWECKE! ⚠️               │
+REM │  Jegliche illegale Nutzung liegt in deiner   │
+REM │  eigenen Verantwortung. Dieser Code dient    │
+REM │  nur zu Test-, Lern- und Spasszwecken.        │
+REM │                                               │
+REM └───────────────────────────────────────────────┘
+
+
+DELAY(1000)
+DELAY 1000
+CTRL ALT F4
+DELAY 200
+ENTER
