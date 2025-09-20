@@ -1,0 +1,16 @@
+REM ┌──────────────────────────────────────────────────────────┐
+REM │  DAVIDOKING PAYLOADS v1.0                                 │
+REM │  GitHub: https://github.com/Davidoking/Davido_Payloads    │
+REM │  Letztes Update: 19.09.25                                  │
+REM │                                                          │
+REM │  ⚠️ NUR FUER LEGALE ZWECKE! ⚠️                             │
+REM │  Verwende dieses Script nur auf Geraeten, die du besitzt  │
+REM │  oder fuer die du ausdrueckliche Erlaubnis hast.           │
+REM └──────────────────────────────────────────────────────────┘
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=xvFZjo5PgG0
+ENTER
+DELAY 2000
